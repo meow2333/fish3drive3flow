@@ -1,0 +1,18 @@
+body {
+  background: #000;
+}
+header {
+  color: #fff;
+}
+header .menu {
+  text-align: right;
+}
+#container .item {
+  overflow: hidden;
+  line-height: 300px;
+  height: 300px;
+}
+#container .item img {
+  vertical-align: middle;
+  width: 100%;
+}
